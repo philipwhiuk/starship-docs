@@ -59,18 +59,21 @@ https://www.faa.gov/space/stakeholder_engagement/spacex_starship/?fbclid=IwAR0q1
 
 **Status:** FAA drafting Environmental Assessment (EA) document
 
+NB: FAA considers work done on OLIT to 'complicate the process' and be done 'at-risk':
+https://twitter.com/thesheetztweetz/status/1415437751646818304/photo/1
+
 #### SpaceX Starship Super Heavy Project at KSC
 
 TODO: Link, Status
 
-### Structure Permits
+### 	Obstruction Evaluation / Airport Airspace Analysis (OE/AAA) - Notices for Proposed Construction / Alteration (Form 7460-1)
 
-#### Form 7460-1 for ASN 2021-ASW-4185-OE
+#### Orbital Launch Integration Tower  (ASN 2021-ASW-4185-OE)
 
-Orbital Launch Integration Tower 
 https://oeaaa.faa.gov/oeaaa/external/searchAction.jsp?action=displayOECase&oeCaseID=474570805&row=115
-
 479ft (469ft tower + 10ft lightning rod)
+
+NB: Provided evidence that the OLIT would actually be used to for "catching" via "arms
 
 ### Temporary Flight Restrictions
 
@@ -81,13 +84,22 @@ https://tfr.faa.gov/tfr2/list.html
 ### Orbital Test Flight Licensing
 
 ## USCG
-
-### Army Core of Engines (ACE)
-
-https://www.swg.usace.army.mil/Portals/26/docs/regulatory/PN%20March/Plans_201300381.pdf?ver=hid3b2HjHCZZNucHf1LGzw%3d%3d
-
 ### Marine Safety Information Bulletins
 
 MSIB Publication Link: https://homeport.uscg.mil/my-homeport/safety-Notifications/MSIB?cotpid=22
 
 Example MSIB:  https://homeport.uscg.mil/Lists/Content/DispForm.aspx?ID=66996&Source=/Lists/Content/DispForm.aspx?ID=66996
+
+## US Army Core of Engines (ACE) - Galveston District
+
+### SWG-2012-00381 (Permit Review for Orbital Launch Site)
+
+Public Notice: https://www.swg.usace.army.mil/Portals/26/docs/regulatory/PN%20APRIL/PN2_201200381.pdf?ver=mYDsA57a8HMJK0MxAGcVxg%3d%3d
+Project Plans: https://www.swg.usace.army.mil/Portals/26/docs/regulatory/PN%20March/Plans_201200381.pdf?ver=FRFoaMtv2EGSZh833C4pRA%3d%3d
+
+### SWG-2013-00381 (Permit Review for Orbital Launch Site)
+
+Public Notice: https://www.swg.usace.army.mil/Portals/26/docs/regulatory/PN%20March/PN_201300381.pdf?ver=6MX8YmX4FM43lVrgFQ7WgA%3d%3d
+Project Plans: https://www.swg.usace.army.mil/Portals/26/docs/regulatory/PN%20March/Plans_201300381.pdf?ver=hid3b2HjHCZZNucHf1LGzw%3d%3d
+
+NB: It's not clear which is actually active, if either
