@@ -87,4 +87,6 @@ https://www.swg.usace.army.mil/Portals/26/docs/regulatory/PN%20March/Plans_20130
 
 ### Marine Safety Information Bulletins
 
-TODO: Find Link
+MSIB Publication Link: https://homeport.uscg.mil/my-homeport/safety-Notifications/MSIB?cotpid=22
+
+Example MSIB:  https://homeport.uscg.mil/Lists/Content/DispForm.aspx?ID=66996&Source=/Lists/Content/DispForm.aspx?ID=66996
