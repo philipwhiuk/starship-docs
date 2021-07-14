@@ -94,12 +94,12 @@ Example MSIB:  https://homeport.uscg.mil/Lists/Content/DispForm.aspx?ID=66996&So
 
 ### SWG-2012-00381 (Permit Review for Orbital Launch Site)
 
-Public Notice: https://www.swg.usace.army.mil/Portals/26/docs/regulatory/PN%20APRIL/PN2_201200381.pdf?ver=mYDsA57a8HMJK0MxAGcVxg%3d%3d
-Project Plans: https://www.swg.usace.army.mil/Portals/26/docs/regulatory/PN%20March/Plans_201200381.pdf?ver=FRFoaMtv2EGSZh833C4pRA%3d%3d
+* Public Notice: https://www.swg.usace.army.mil/Portals/26/docs/regulatory/PN%20APRIL/PN2_201200381.pdf?ver=mYDsA57a8HMJK0MxAGcVxg%3d%3d
+* Project Plans: https://www.swg.usace.army.mil/Portals/26/docs/regulatory/PN%20March/Plans_201200381.pdf?ver=FRFoaMtv2EGSZh833C4pRA%3d%3d
 
 ### SWG-2013-00381 (Permit Review for Orbital Launch Site)
 
-Public Notice: https://www.swg.usace.army.mil/Portals/26/docs/regulatory/PN%20March/PN_201300381.pdf?ver=6MX8YmX4FM43lVrgFQ7WgA%3d%3d
-Project Plans: https://www.swg.usace.army.mil/Portals/26/docs/regulatory/PN%20March/Plans_201300381.pdf?ver=hid3b2HjHCZZNucHf1LGzw%3d%3d
+* Public Notice: https://www.swg.usace.army.mil/Portals/26/docs/regulatory/PN%20March/PN_201300381.pdf?ver=6MX8YmX4FM43lVrgFQ7WgA%3d%3d
+* Project Plans: https://www.swg.usace.army.mil/Portals/26/docs/regulatory/PN%20March/Plans_201300381.pdf?ver=hid3b2HjHCZZNucHf1LGzw%3d%3d
 
 NB: It's not clear which is actually active, if either
