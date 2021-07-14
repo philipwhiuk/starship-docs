@@ -5,9 +5,13 @@ Links to Starship related filings
 
 ## Cameron County
 
-### Road Closures
+### Published Road Closures
 
 https://www.cameroncounty.us/spacex/
+
+### Attorney General / Save RGV
+
+https://www.bloomberg.com/news/articles/2021-06-16/texas-official-warns-spacex-amid-showdown-over-public-roads
 
 # State 
 
@@ -15,7 +19,12 @@ https://www.cameroncounty.us/spacex/
 
 ### Railroad Commission
 
-https://rrctx.force.com/s/case/500t000000Z1fGyAAJ/detail
+#### Legal Case (Lone Star Mineral Developement (SpaceX holding company) vs Dallas Petroleum Group) 
+
+**Case:** https://rrctx.force.com/s/case/500t000000Z1fGyAAJ/detail
+**Status:** Ammended Proposal for Decision in favour of LoneStar (SpaceX)
+
+> Examiners recommend the Commission approve Lone Star's application to transfer the Wells to Lone Star
 
 # Federal
 
