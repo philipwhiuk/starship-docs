@@ -40,6 +40,26 @@ Responsible for administration of oil & gas wells at Boca Chica.
 
 Currently engaged in process for selecting Moon-landing system. May also seek to use Starship for future deep space missions.
 
+### Time-Resolved Observations of Precipitation Structure and Storm Intensity with a Constellation of Smallsats (TROPICS) Mission Launch Services
+
+https://sam.gov/opp/6660d1e719fb47f6b1b5013e3ae56fac/view?index=opp
+
+* **Status**: Decided
+* **Outcome**: NASA selected Astra over RocketLab's Electron and Starship
+
+>  A weakness was assigned because SpaceX’s FPR did not clearly
+demonstrate progress toward the resolution of the environmental assessment which results in risk
+associated with obtaining an FAA launch license, increasing the likelihood of delays that would
+affect contract performance. 
+
+> SpaceX’s FPR included the same integrated master schedule that was
+included in the initial proposal and does not indicate that any milestones scheduled for
+completion have been completed. As a result, there is significant risk in the proposed launch
+approach based on the required launch date and the current status of the proposed launch vehicle
+that increases the likelihood of unsuccessful contract performance
+
+> Astra had the lowest proposed price at $7.95M. SpaceX had the next lowest proposed price and they were somewhat higher than Astra.
+
 ### NextSTEP H: Human Landing System
 
 https://www.nasa.gov/nextstep/humanlander2
