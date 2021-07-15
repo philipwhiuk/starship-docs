@@ -6,6 +6,8 @@ Paperwork related to Starship operations (especially with a focus on approvals p
 
 ## Cameron County
 
+Responsible for local administration for Boca Chica construction and launch sites.
+
 ### Published Road Closures
 
 https://www.cameroncounty.us/spacex/
@@ -18,7 +20,11 @@ https://www.bloomberg.com/news/articles/2021-06-16/texas-official-warns-spacex-a
 
 ## Texas
 
+State in which both McGregor test facility and Boca Chica construction & launch sites are located.
+
 ### Railroad Commission
+
+Responsible for administration of oil & gas wells at Boca Chica.
 
 #### Legal Case (Lone Star Mineral Developement (SpaceX holding company) vs Dallas Petroleum Group) 
 
@@ -31,6 +37,8 @@ https://www.bloomberg.com/news/articles/2021-06-16/texas-official-warns-spacex-a
 # Federal
 
 ## NASA
+
+Currently engaged in process for selecting Moon-landing system. May also seek to use Starship for future deep space missions.
 
 ### NextSTEP H: Human Landing System
 
@@ -58,12 +66,16 @@ Docs:
 
 ## GAO (Government Accountability Office)
 
+Responsible for ensuring other federal agencies (e.g. NASA) follow fair selection process.
+
 ### NNH19ZCQ001K - Human Landing System Contract
 
 * Blue Origin Federation, LLC - File Number: B-419783.3 - https://www.gao.gov/docket/b-419783.3
 * Dynetics, Inc- a Leidos Company - File Number: B-419783.4 - https://www.gao.gov/docket/b-419783.4
 
 ## FAA
+
+Dominant licensing and authorisation body for spaceflight. Must allow spaceports, launch and landing attempts.
 
 ### Spaceport License
 
@@ -115,16 +127,19 @@ https://tfr.faa.gov/tfr2/list.html
 
 ## FCC
 
+Responsible for regulating communications systems. This includes Starlink antennas and ground-vehicle tracking systems (radar dishes).
+
 ### Orbital Test Flight Licensing
 
-## USCG
+## US Coast Guard 
+
 ### Marine Safety Information Bulletins
 
 MSIB Publication Link: https://homeport.uscg.mil/my-homeport/safety-Notifications/MSIB?cotpid=22
 
 Example MSIB:  https://homeport.uscg.mil/Lists/Content/DispForm.aspx?ID=66996&Source=/Lists/Content/DispForm.aspx?ID=66996
 
-## US Army Core of Engines (ACE) - Galveston District
+## US Army Core of Engineers (ACE) - Galveston District
 
 ### SWG-2012-00381 (Permit Review for Orbital Launch Site)
 
