@@ -30,6 +30,39 @@ https://www.bloomberg.com/news/articles/2021-06-16/texas-official-warns-spacex-a
 
 # Federal
 
+# NASA
+
+## NextSTEP H: Human Landing System
+
+https://www.nasa.gov/nextstep/humanlander2
+
+SpaceX Starship selected as Option A:
+
+* Press Release: https://www.nasa.gov/press-release/as-artemis-moves-forward-nasa-picks-spacex-to-land-next-americans-on-moon
+* Source Selection Statement: https://www.nasa.gov/sites/default/files/atoms/files/option-a-source-selection-statement-final.pdf
+
+> NASA implemented a no-cost extension through Aug. 9, 2021 to each of the base period HLS contracts with Blue Origin Federation, Dynetics, and SpaceX. These extensions continue the contracts for administrative purposes ahead of GAO resolution of the current protests.
+
+## NextSTEP N: Sustainable HLS
+
+Timeline:
+
+* April 28, 2021 – Request for Information (RFI) Issued (Notice ID 21-27-PS50) | Announcement
+* May 3, 2021 – Virtual Industry Forum
+* June 9, 2021 – Synopsis Issued
+* July 1, 2021 – Solicitation Released | Announcement
+
+Docs:
+
+* Solicitation: https://sam.gov/opp/a69b323be5494af2b04b85a1f5111076/view
+
+## GAO (Government Accountability Office)
+
+### NNH19ZCQ001K - Human Landing System Contract
+
+* Blue Origin Federation, LLC - File Number: B-419783.3 - https://www.gao.gov/docket/b-419783.3
+* Dynetics, Inc- a Leidos Company - File Number: B-419783.4 - https://www.gao.gov/docket/b-419783.4
+
 ## FAA
 
 ### Spaceport License
