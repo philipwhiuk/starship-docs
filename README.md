@@ -30,9 +30,9 @@ https://www.bloomberg.com/news/articles/2021-06-16/texas-official-warns-spacex-a
 
 # Federal
 
-# NASA
+## NASA
 
-## NextSTEP H: Human Landing System
+### NextSTEP H: Human Landing System
 
 https://www.nasa.gov/nextstep/humanlander2
 
@@ -43,7 +43,7 @@ SpaceX Starship selected as Option A:
 
 > NASA implemented a no-cost extension through Aug. 9, 2021 to each of the base period HLS contracts with Blue Origin Federation, Dynetics, and SpaceX. These extensions continue the contracts for administrative purposes ahead of GAO resolution of the current protests.
 
-## NextSTEP N: Sustainable HLS
+### NextSTEP N: Sustainable HLS
 
 Timeline:
 
