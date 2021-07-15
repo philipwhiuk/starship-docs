@@ -93,6 +93,10 @@ Responsible for ensuring other federal agencies (e.g. NASA) follow fair selectio
 * Blue Origin Federation, LLC - File Number: B-419783.3 - https://www.gao.gov/docket/b-419783.3
 * Dynetics, Inc- a Leidos Company - File Number: B-419783.4 - https://www.gao.gov/docket/b-419783.4
 
+#### SpaceX Starship Super Heavy Project at KSC
+
+Environmental Assessment: https://netspublic.grc.nasa.gov/main/20190801_Final_DRAFT_EA_SpaceX_Starship.pdf
+
 ## FAA
 
 Dominant licensing and authorisation body for spaceflight. Must allow spaceports, launch and landing attempts.
@@ -127,10 +131,6 @@ https://www.faa.gov/space/stakeholder_engagement/spacex_starship/?fbclid=IwAR0q1
 
 NB: FAA considers work done on OLIT to 'complicate the process' and be done 'at-risk':
 https://twitter.com/thesheetztweetz/status/1415437751646818304/photo/1
-
-#### SpaceX Starship Super Heavy Project at KSC
-
-TODO: Link, Status
 
 ### 	Obstruction Evaluation / Airport Airspace Analysis (OE/AAA) - Notices for Proposed Construction / Alteration (Form 7460-1)
 
