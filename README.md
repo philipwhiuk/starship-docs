@@ -138,6 +138,18 @@ https://www.faa.gov/data_research/commercial_space_data/launches/?type=Permitted
 | Aug 27, 2019 | 150m Hop | Starship Hopper	| Space Exploration Technologies Corporation | TX | 
 | Jul 25, 2019 | 18m Hop | Starship Hopper |	Space Exploration Technologies Corporation | TX | 
 
+### National Environmental Policy Act (NEPA) Reviews
+
+* May 2014 Original: https://www.faa.gov/space/environmental/nepa_docs/spacex_texas_eis/media/FEIS_SpaceX_Texas_Launch_Site_Vol_I.pdf
+* November 2014 Re-Evaluation: https://www.faa.gov/space/environmental/nepa_docs/spacex_texas_eis/media/20141110_WR_SpaceX_Brownsville_EIS.pdf
+* October 2017 Re-Evaluation: https://www.faa.gov/space/environmental/nepa_docs/spacex_texas_eis/media/20171005_SpaceX_Texas_WR_for_Design_Mods.pdf
+* May 2019 Re-Evaluation: https://www.faa.gov/space/environmental/nepa_docs/spacex_texas_eis/media/May_2019_WR_for_SpaceX_Texas_Starship_Testing_vfinal.pdf
+* August 2019 Addendum: https://www.faa.gov/space/environmental/nepa_docs/spacex_texas_eis/media/August_2019_Addendum.pdf
+* November 2019 Addendum: https://www.faa.gov/space/environmental/nepa_docs/spacex_texas_eis/media/November_2019_Addendum.pdf
+* June 2020 Addendum: https://www.faa.gov/space/environmental/nepa_docs/spacex_texas_eis/media/June_2020_Addendum_to_May_2019.pdf
+* May 2020 Re-Evaluation: https://www.faa.gov/space/environmental/nepa_docs/spacex_texas_eis/media/WR_for_SpaceX_Construction_508.pdf
+* December 2020 Re-Evaluation: https://www.faa.gov/space/environmental/nepa_docs/spacex_texas_eis/media/WR_for_Increased_Closure_Hours_508.pdf
+
 ### Ongoing Engagement
 
 #### SpaceX Starship Super Heavy Project at the Boca Chica Launch Site
