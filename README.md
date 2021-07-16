@@ -119,7 +119,7 @@ https://www.faa.gov/data_research/commercial_space_data/launches/?type=Permitted
 | Date | Desc | Vehicle | Company | State |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Aug 27, 2019 | 150m Hop | Starship Hopper	| Space Exploration Technologies Corporation | TX | 
-| 20190725Jul 25, 2019 | 18m Hop | Starship Hopper |	Space Exploration Technologies Corporation | TX | 
+| Jul 25, 2019 | 18m Hop | Starship Hopper |	Space Exploration Technologies Corporation | TX | 
 
 ### Ongoing Engagement
 
