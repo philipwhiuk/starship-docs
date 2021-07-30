@@ -96,6 +96,10 @@ Timeline:
 * May 3, 2021 – Virtual Industry Forum
 * June 9, 2021 – Synopsis Issued
 * July 1, 2021 – Solicitation Released | Announcement
+* July 16, 2021 – Industry Q&A Log posted
+* July 20, 2021 – BAA Amendment 1 (minor updates and clarifications) 
+* July 22, 2021 - BAA Amendment 2 (minor updates and clarifications)
+* July 27, 2021 – Industry Q&A Log posted
 * August 2, 2021 - Proposals due
 * NET September 2021 - Awards announced by NASA HLS team
 
