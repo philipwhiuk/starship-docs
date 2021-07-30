@@ -96,6 +96,8 @@ Timeline:
 * May 3, 2021 – Virtual Industry Forum
 * June 9, 2021 – Synopsis Issued
 * July 1, 2021 – Solicitation Released | Announcement
+* August 2, 2021 - Proposals due
+* NET September 2021 - Awards announced by NASA HLS team
 
 Docs:
 
@@ -109,6 +111,15 @@ Responsible for ensuring other federal agencies (e.g. NASA) follow fair selectio
 
 * Blue Origin Federation, LLC - File Number: B-419783.3 - https://www.gao.gov/docket/b-419783.3
 * Dynetics, Inc- a Leidos Company - File Number: B-419783.4 - https://www.gao.gov/docket/b-419783.4
+
+GAO issued statement, denying appeals by both Blue Origin & Dynetics: 
+https://www.gao.gov/press-release/statement-blue-origin-dynetics-decision
+
+> In denying the protests, GAO first concluded that NASA did not violate procurement law or regulation when it decided to make only one award.  NASA’s announcement provided that the number of awards the agency would make was subject to the amount of funding available for the program.  In addition, the announcement reserved the right to make multiple awards, a single award, or no award at all.  In reaching its award decision, NASA concluded that it only had sufficient funding for one contract award.  GAO further concluded there was no requirement for NASA to engage in discussions, amend, or cancel the announcement as a result of the amount of funding available for the program.  As a result, GAO denied the protest arguments that NASA acted improperly in making a single award to SpaceX.   
+
+> GAO next concluded that the evaluation of all three proposals was reasonable, and consistent with applicable procurement law, regulation, and the announcement’s terms.  
+
+> Finally, GAO agreed with the protesters that in one limited instance NASA waived a requirement of the announcement for SpaceX.  Despite this finding, the decision also concludes that the protesters could not establish any reasonable possibility of competitive prejudice arising from this limited discrepancy in the evaluation.
 
 #### SpaceX Starship Super Heavy Project at KSC
 
