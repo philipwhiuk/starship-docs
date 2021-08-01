@@ -149,7 +149,7 @@ Dominant licensing and authorisation body for spaceflight. Must allow spaceports
 
 ### Spaceport License
 
-None
+None (which is kinda odd)
 
 ### Launch Licenses
 
