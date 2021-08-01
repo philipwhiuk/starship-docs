@@ -77,6 +77,20 @@ that increases the likelihood of unsuccessful contract performance
 
 > Astra had the lowest proposed price at $7.95M. SpaceX had the next lowest proposed price and they were somewhat higher than Astra.
 
+### Space Technology Announcement of Collaboration Opportunity (ACO)
+
+> SpaceX will partner with NASA’s Langley Research Center in Hampton, Virginia, to capture imagery and thermal measurements of its Starship vehicle during orbital re-entry over the Pacific Ocean. With the data, the company plans to advance a reusable thermal protection system, which protects the vehicle from aerodynamic heating, for missions returning from low-Earth orbit, the Moon, and Mars.
+
+* Jan 29, 2020 - Solicitations Released	
+* Feb 19, 2020 - Virtual Industry Forum-ACO
+*	Mar 18, 2020 - Mandatory Preliminary Proposals Due
+*	May 15, 2020 - Invitation for Final Proposal Submission (target)	
+* Jun 25, 2020 - Final Proposals Due	
+* Aug 31, 2020 - Selection Announcement (target) 
+* Nov 9, 2020 - Partnerships Announced - https://www.nasa.gov/directorates/spacetech/2020_NASA_Announcement_of_Collaboration_Opportunity_ACO_Selections
+* Nov 9, 2020 - Press Release - https://www.nasa.gov/press-release/new-nasa-partnerships-to-mature-commercial-space-technologies-capabilities
+
+
 ### NextSTEP H: Human Landing System
 
 https://www.nasa.gov/nextstep/humanlander2
