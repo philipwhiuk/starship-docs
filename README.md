@@ -209,6 +209,12 @@ Responsible for regulating communications systems. This includes Starlink antenn
 
 ### Orbital Test Flight Licensing
 
+## US Air Force (USAF)
+
+### Rocket Cargo Project
+
+"The Department of the Air Force seeks to leverage the current multi-billion dollar commercial investment to develop the largest rockets ever, and with full reusability to develop and test the capability to leverage a commercial rocket to deliver AF cargo anywhere on the Earth in less than one hour, with a 100-ton capacity," - Budget Justification Book 2021
+
 ## US Coast Guard 
 
 ### Marine Safety Information Bulletins
