@@ -1,4 +1,4 @@
 # starship-docs
 
-* [FILINGS.MD]
-* [ACRONYMS.MD]
+* [[FILINGS.MD]]
+* [[ACRONYMS.MD]]
