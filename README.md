@@ -1,4 +1,4 @@
 # starship-docs
 
-* [FILINGS.MD](FILINGS.MD)
-* [ACRONYMS.MD](ACRONYMS.MD)
+* [FILINGS.MD](https://github.com/philipwhiuk/starship-docs/blob/main/FILINGS.md)
+* [ACRONYMS.MD](https://github.com/philipwhiuk/starship-docs/blob/main/ACRONYMS.MD)
