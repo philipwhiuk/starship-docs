@@ -121,6 +121,10 @@ Docs:
 
 * Solicitation: https://sam.gov/opp/a69b323be5494af2b04b85a1f5111076/view
 
+### SpaceX Starship Super Heavy Project at KSC
+
+Environmental Assessment: https://netspublic.grc.nasa.gov/main/20190801_Final_DRAFT_EA_SpaceX_Starship.pdf
+
 ## GAO (Government Accountability Office)
 
 Responsible for ensuring other federal agencies (e.g. NASA) follow fair selection process.
@@ -139,9 +143,6 @@ https://www.gao.gov/press-release/statement-blue-origin-dynetics-decision
 
 > Finally, GAO agreed with the protesters that in one limited instance NASA waived a requirement of the announcement for SpaceX.  Despite this finding, the decision also concludes that the protesters could not establish any reasonable possibility of competitive prejudice arising from this limited discrepancy in the evaluation.
 
-#### SpaceX Starship Super Heavy Project at KSC
-
-Environmental Assessment: https://netspublic.grc.nasa.gov/main/20190801_Final_DRAFT_EA_SpaceX_Starship.pdf
 
 ## FAA
 
