@@ -2,9 +2,9 @@
 
 Paperwork related to Starship operations (especially with a focus on approvals processes).
 
-* [https://github.com/philipwhiuk/starship-docs/blob/main/FILINGS.md#multi-agency](Multi-Agency)
-* [https://github.com/philipwhiuk/starship-docs/blob/main/FILINGS.md#state](State)
-* [https://github.com/philipwhiuk/starship-docs/blob/main/FILINGS.md#federal](Federal)
+* [Multi-Agency](https://github.com/philipwhiuk/starship-docs/blob/main/FILINGS.md#multi-agency)
+* [State](https://github.com/philipwhiuk/starship-docs/blob/main/FILINGS.md#state)
+* [Federal](https://github.com/philipwhiuk/starship-docs/blob/main/FILINGS.md#federal)
 
 # Multi-Agency
 
