@@ -208,7 +208,13 @@ https://tfr.faa.gov/tfr2/list.html
 
 Responsible for regulating communications systems. This includes Starlink antennas and ground-vehicle tracking systems (radar dishes).
 
-### Orbital Test Flight Licensing
+### Starlink on Starship Licenses
+
+https://apps.fcc.gov/oetcf/els/reports/STA_Print.cfm?mode=current&application_seq=108293&RequestTimeout=1000
+
+### 0748-EX-ST-2021 - "Starship Orbital First Flight" Radio Spectrum Licensing
+
+https://fcc.report/ELS/Space-Exploration-Technologies-Corp-SpaceX/0748-EX-ST-2021
 
 ## US Air Force (USAF)
 
