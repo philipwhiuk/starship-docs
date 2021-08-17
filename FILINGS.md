@@ -147,6 +147,11 @@ https://www.gao.gov/press-release/statement-blue-origin-dynetics-decision
 
 > Finally, GAO agreed with the protesters that in one limited instance NASA waived a requirement of the announcement for SpaceX.  Despite this finding, the decision also concludes that the protesters could not establish any reasonable possibility of competitive prejudice arising from this limited discrepancy in the evaluation.
 
+## Court of Federal Claims
+
+### Case 21-1695C Blue Origin Federation LLC vs United States of America
+
+[image](https://user-images.githubusercontent.com/1316415/129780634-cfef5f4a-89d9-41e9-985b-704bc7e9e935.png)
 
 ## FAA
 
