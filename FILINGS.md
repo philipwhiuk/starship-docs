@@ -151,7 +151,7 @@ https://www.gao.gov/press-release/statement-blue-origin-dynetics-decision
 
 ### Case 21-1695C Blue Origin Federation LLC vs United States of America
 
-[image](https://user-images.githubusercontent.com/1316415/129780634-cfef5f4a-89d9-41e9-985b-704bc7e9e935.png)
+* [Blue Origin's Motion for Leave to File a Complaint Under Seal](https://user-images.githubusercontent.com/1316415/129780634-cfef5f4a-89d9-41e9-985b-704bc7e9e935.png) - Filed 13th August, Published 16th August (?)
 
 ## FAA
 
