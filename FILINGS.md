@@ -195,7 +195,10 @@ https://www.faa.gov/data_research/commercial_space_data/launches/?type=Permitted
 
 https://www.faa.gov/space/stakeholder_engagement/spacex_starship/?fbclid=IwAR0q1e9V77oLBvYucx8mg4mykeP2tfq74CFp_H6eUJhEimLtq8V7cMiYnsQ
 
-**Status:** FAA drafting Environmental Assessment (EA) document
+**Status:** 
+
+* Draft Programmatic Environmental Assesment published (September 17th)
+* Public comment period until NET October 18th 2021
 
 NB: FAA considers work done on OLIT to 'complicate the process' and be done 'at-risk':
 https://twitter.com/thesheetztweetz/status/1415437751646818304/photo/1
