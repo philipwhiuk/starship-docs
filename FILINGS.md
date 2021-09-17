@@ -119,7 +119,9 @@ Timeline:
 * July 22, 2021 - BAA Amendment 2 (minor updates and clarifications)
 * July 27, 2021 – Industry Q&A Log posted
 * August 2, 2021 - Proposals due
-* NET September 2021 - Awards announced by NASA HLS team
+* September 14, 2021 - NASA Selects Five U.S. Companies to Mature Artemis Lander Concepts - https://www.nasa.gov/press-release/nasa-selects-five-us-companies-to-mature-artemis-lander-concepts/
+
+"SpaceX of Hawthorne, California, $9.4 million."
 
 Docs:
 
