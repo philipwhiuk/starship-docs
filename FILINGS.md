@@ -140,6 +140,10 @@ Responsible for ensuring other federal agencies (e.g. NASA) follow fair selectio
 * Blue Origin Federation, LLC - File Number: B-419783.3 - https://www.gao.gov/docket/b-419783.3
 * Dynetics, Inc- a Leidos Company - File Number: B-419783.4 - https://www.gao.gov/docket/b-419783.4
 
+The Verge FOIA'd (post case ending) the NASA response:
+
+* https://s3.documentcloud.org/documents/21071695/r_76c-mol_blue_origin_b-4197831_final_corrected_copy_public_redacted.pdf
+
 GAO issued statement, denying appeals by both Blue Origin & Dynetics: 
 https://www.gao.gov/press-release/statement-blue-origin-dynetics-decision
 
@@ -153,7 +157,14 @@ https://www.gao.gov/press-release/statement-blue-origin-dynetics-decision
 
 ### Case 21-1695C Blue Origin Federation LLC vs United States of America
 
+NB: Blue Origin is suing NASA (Federal Government). Department of Justice is responsible for defending government agencies. SpaceX is an interested party. 
+
 * [Blue Origin's Motion for Leave to File a Complaint Under Seal](https://user-images.githubusercontent.com/1316415/129780634-cfef5f4a-89d9-41e9-985b-704bc7e9e935.png) - Filed 13th August, Published 16th August (?)
+* DoJ requests deadline extension due to issues filing documents
+* Judge grants extension (also allowing time for BO to review  
+* Complaint (partially redacted) is unsealed following request by Blue, responses from DoJ/NASA & SpaceX - https://twitter.com/thesheetztweetz/status/1440685410456256524
+
+Case ending ~ November 1st
 
 ## FAA
 
