@@ -48,7 +48,7 @@ State in which both McGregor test facility and Boca Chica construction & launch 
 
 Responsible for administration of oil & gas wells at Boca Chica.
 
-#### Legal Case (Lone Star Mineral Developement (SpaceX holding company) vs Dallas Petroleum Group) 
+#### Legal Case (Lone Star Mineral Development (SpaceX holding company) vs Dallas Petroleum Group) 
 
 **Case:** https://rrctx.force.com/s/case/500t000000Z1fGyAAJ/detail
 
