@@ -211,7 +211,10 @@ https://www.faa.gov/space/stakeholder_engagement/spacex_starship/?fbclid=IwAR0q1
 **Status:** 
 
 * Draft Programmatic Environmental Assesment published (September 17th)
-* Public comment period until NET October 18th 2021
+* Public comment period originally until NET October 18th 2021
+* Public comment period extended following state & federal requests to November 1st 2021
+
+Video summary by NASASpaceFlight: https://www.youtube.com/watch?v=oTiesMAdlU0
 
 NB: FAA considers work done on OLIT to 'complicate the process' and be done 'at-risk':
 https://twitter.com/thesheetztweetz/status/1415437751646818304/photo/1
