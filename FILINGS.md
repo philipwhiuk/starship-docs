@@ -227,7 +227,7 @@ https://twitter.com/thesheetztweetz/status/1415437751646818304/photo/1
 https://oeaaa.faa.gov/oeaaa/external/searchAction.jsp?action=displayOECase&oeCaseID=474570805&row=115
 479ft (469ft tower + 10ft lightning rod)
 
-NB: Provided evidence that the OLIT would actually be used to for "catching" via "arms
+NB: Provided first hard evidence that the OLIT would actually be used to for "catching" via "arms"
 
 ### Temporary Flight Restrictions
 
