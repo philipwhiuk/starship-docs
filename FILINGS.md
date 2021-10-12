@@ -72,7 +72,7 @@ https://outline.com/ZxdwKp
 
 **Type** Civil
 
-**Docket Case 2021-DCL-05887 08215
+**Docket** Case 2021-DCL-05887 08215
 
 **Parties** SaveRGV vs. Texas General Land Office,George P. Bush, Cameron County
 
