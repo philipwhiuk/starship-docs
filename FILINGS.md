@@ -44,6 +44,28 @@ https://www.bloomberg.com/news/articles/2021-06-16/texas-official-warns-spacex-a
 
 State in which both McGregor test facility and Boca Chica construction & launch sites are located.
 
+### Legislature
+
+### Texas House Bill 2623
+
+Filing: https://capitol.texas.gov/tlodocs/83R/billtext/html/HB02623F.HTM
+Ammending: Texas Open Beaches Act
+
+Purpose: Allows Cameron County officials to close beach access for spaceflight purposes
+
+### State District Courts
+
+#### Save RGV vs Texas General Land Office and Cameron County
+
+> SaveRGV, a nonprofit organization, on Monday filed a lawsuit in State District Court alleging that closing Boca Chica Beach for SpaceX tests and launches violates the Texas Open Beaches Act.
+> The group charges in a 24-page lawsuit that it was illegal for the Texas Legislature in 2013 to pass a law allowing for exceptions to that act for space flight activities.
+https://outline.com/ZxdwKp
+
+* Civil Docket; Case 2021-DCL-05887 08215; Civil-Other Civil
+* SaveRGV vs. Texas General Land Office,George P. Bush, Cameron County
+* Filed 10/11/2021 - Disposition:
+* 445th District Court, District Clerk, Cameron County, Texas
+
 ### Railroad Commission
 
 Responsible for administration of oil & gas wells at Boca Chica.
