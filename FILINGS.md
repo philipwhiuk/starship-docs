@@ -1,6 +1,6 @@
 # Starship Filings
 
-Paperwork related to Starship operations (especially with a focus on approvals processes).
+Paperwork related to Starship operations (especially with a focus on approval processes and lawsuits).
 
 * [Multi-Agency](https://github.com/philipwhiuk/starship-docs/blob/main/FILINGS.md#multi-agency)
 * [County](https://github.com/philipwhiuk/starship-docs/blob/main/FILINGS.md#county)
