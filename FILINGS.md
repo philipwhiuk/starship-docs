@@ -45,6 +45,11 @@ https://www.bloomberg.com/news/articles/2021-06-16/texas-official-warns-spacex-a
 
 State in which both McGregor test facility and Boca Chica construction & launch sites are located.
 
+### Constitution
+
+In 2009, an amendment was passed that protects beach access by the public: 
+> "individually and collectively, has an unrestricted right to use and a right of ingress to and egress from a public beach.” Tex. Const. art. I, §33(b)
+
 ### Legislature
 
 ### 83rd Texas House Session Bill - House Bill (H.B) 2623
@@ -63,12 +68,19 @@ State in which both McGregor test facility and Boca Chica construction & launch 
 
 ##### Save RGV vs Texas General Land Office and Cameron County
 
-News Blurb: 
+**Summary**
 
-> SaveRGV, a nonprofit organization, on Monday filed a lawsuit in State District Court alleging that closing Boca Chica Beach for SpaceX tests and launches violates the Texas Open Beaches Act.
-> The group charges in a 24-page lawsuit that it was illegal for the Texas Legislature in 2013 to pass a law allowing for exceptions to that act for space flight activities.
-> 
-https://outline.com/ZxdwKp
+In 2009, the Texas Constitution was amended to protect the public's access to the beach. In 2013 (ahead of SpaceX's arrival) Texas passed a bill amending the Open Beaches Act, allowing for beach closures for spaceflight activities.
+
+SaveRGV, a nonprofit environmental organization, filed a lawsuit in State District Court alleging that closing Boca Chica Beach for SpaceX tests and launches violates the Texas Open Beaches Act.
+
+The fundamental questions are:
+
+* Is the beach being closed beyond the judge's orders
+* Do the beach closures being ordered fall within the act
+* Is the Act itself constitutional given the 2009 amendment
+
+The lawsuit primarily challenges the status quo based on the final point.
 
 **Type** Civil
 
