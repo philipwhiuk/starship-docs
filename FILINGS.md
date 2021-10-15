@@ -76,12 +76,13 @@ https://outline.com/ZxdwKp
 
 **Parties** SaveRGV vs. Texas General Land Office,George P. Bush, Cameron County
 
-**Initial Filing** 10/11/2021
+**Initial Filing** 11/10/2021
 
 **Updates**
 
-* Filed 11th November
+* Filed 11/10/2021
 * Reported in local media "Border Report": https://outline.com/ZxdwKp
+* Retrieved at/prior 15/10/2021 (thanks unknown source): https://2fea0d43-01a9-4ffc-8e3a-0d4e11c2f416.filesusr.com/ugd/d1db5d_7e329ee589844c33a1eae9feea8ee0d1.pdf
 
 ### Railroad Commission
 
