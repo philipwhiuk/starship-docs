@@ -281,6 +281,15 @@ https://oeaaa.faa.gov/oeaaa/external/searchAction.jsp?action=displayOECase&oeCas
 
 NB: Provided first hard evidence that the OLIT would actually be used to for "catching" via "arms"
 
+#### Crane (Boca)
+https://oeaaa.faa.gov/oeaaa/external/searchAction.jsp?action=displayOECase&oeCaseID=483483974&row=11 
+
+#### Crane - Proposed (Massey's)
+https://oeaaa.faa.gov/oeaaa/external/searchAction.jsp?action=displayOECase&oeCaseID=438876307&row=1
+
+#### Antenna - Proposed (Massey's)
+https://oeaaa.faa.gov/oeaaa/external/searchAction.jsp?action=displayOECase&oeCaseID=438874497&row=0
+
 ### Temporary Flight Restrictions
 
 https://tfr.faa.gov/tfr2/list.html
@@ -296,6 +305,9 @@ https://apps.fcc.gov/oetcf/els/reports/STA_Print.cfm?mode=current&application_se
 ### 0748-EX-ST-2021 - "Starship Orbital First Flight" Radio Spectrum Licensing
 
 https://fcc.report/ELS/Space-Exploration-Technologies-Corp-SpaceX/0748-EX-ST-2021
+
+## Wireless Antenna License (at Massey's Gun Range)
+https://wireless2.fcc.gov/UlsApp/AsrSearch/asrApplication.jsp;JSESSIONID_ASRSEARCH=2cMphHDK1B1qByCqc912s2BVKynJQccWkH6vr50hPvhjqcFwnbNn!2025699234!2139832611?callingSystem=RS&applKey=4680695
 
 ## US Air Force (USAF)
 
