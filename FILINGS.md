@@ -182,7 +182,9 @@ Docs:
 
 ### SpaceX Starship Super Heavy Project at KSC
 
-Environmental Assessment: https://netspublic.grc.nasa.gov/main/20190801_Final_DRAFT_EA_SpaceX_Starship.pdf
+* Draft EA: https://netspublic.grc.nasa.gov/main/20190801_Final_DRAFT_EA_SpaceX_Starship.pdf
+* Final EA: http://netspublic.grc.nasa.gov/main/20190919_Final_EA_SpaceX_Starship.pdf
+* FONSI: http://netspublic.grc.nasa.gov/main/SpaceX%20Starship%20FONSI.pdf
 
 ## GAO (Government Accountability Office)
 
