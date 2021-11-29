@@ -41,6 +41,28 @@ https://www.bloomberg.com/news/articles/2021-06-16/texas-official-warns-spacex-a
 
 # State 
 
+## Florida
+
+State for KSC and the TPS Bakery
+
+### Department of Environmental Protection
+
+#### Hazardous Waste Inspection Report
+
+Interesting details:
+
+Official name of facility: "Space Exploration Technologies DBA Starship Tile Facility"
+
+Notable Issues:
+
+* Container labelling
+* Contigency planning for fire, explosions or waste release
+* First responders aware of contigency plans
+* Quick reference guide publication
+* Container counts in inspection logs
+
+https://forum.nasaspaceflight.com/index.php?action=dlattach;topic=50748.0;attach=2055486;sess=0
+
 ## Texas
 
 State in which both McGregor test facility and Boca Chica construction & launch sites are located.
