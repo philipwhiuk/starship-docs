@@ -122,6 +122,10 @@ The lawsuit primarily challenges the status quo based on the final point.
 
 Responsible for administration of oil & gas wells at Boca Chica.
 
+#### CNG/LNG Storage ###
+
+https://www.rrc.texas.gov/media/brzfosix/cng-lng-regulations.pdf
+
 #### Legal Case (Lone Star Mineral Development (SpaceX holding company) vs Dallas Petroleum Group) 
 
 **Case:** https://rrctx.force.com/s/case/500t000000Z1fGyAAJ/detail
@@ -251,6 +255,8 @@ Dominant licensing and authorisation body for spaceflight. Must allow spaceports
 
 None (which is kinda odd)
 
+**Facility Storage Regulations**: https://www.govregs.com/regulations/title14_chapterIII_part420_subpartD_section420.66
+
 ### Launch Licenses
 
 | File | Company | Desc | State | Company | 
@@ -332,6 +338,20 @@ https://fcc.report/ELS/Space-Exploration-Technologies-Corp-SpaceX/0748-EX-ST-202
 
 ## Wireless Antenna License (at Massey's Gun Range)
 https://wireless2.fcc.gov/UlsApp/AsrSearch/asrApplication.jsp;JSESSIONID_ASRSEARCH=2cMphHDK1B1qByCqc912s2BVKynJQccWkH6vr50hPvhjqcFwnbNn!2025699234!2139832611?callingSystem=RS&applKey=4680695
+
+## FERC
+
+"The FERC is responsible for authorizing the siting and construction of onshore and near-shore LNG import or export facilities under Section 3 of the Natural Gas Act."
+
+SpaceX isn't really an importer or exporter of LNG so this would not seem to apply.
+
+## PHMSA 
+
+PHMSA's remit is governed by "49 CFR Part 193" which excludes:
+
+> LNG facilities used by ultimate consumers of LNG or natural gas.
+
+Given the VLA is a consumer facility this would seem not to apply. But it may cover the gas well lot.
 
 ## US Air Force (USAF)
 
