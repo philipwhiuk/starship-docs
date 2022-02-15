@@ -298,11 +298,25 @@ https://www.permits.performance.gov/permitting-project/spacex-starshipsuper-heav
 * Draft Programmatic Environmental Assesment published (September 17th)
 * Public comment period originally until NET October 18th 2021
 * Public comment period extended following state & federal requests to November 1st 2021
+* Original deadline:
+* Extended to February 28th
+* Extended to March 28th
 
 Video summary by NASASpaceFlight: https://www.youtube.com/watch?v=oTiesMAdlU0
 
 NB: FAA considers work done on OLIT to 'complicate the process' and be done 'at-risk':
 https://twitter.com/thesheetztweetz/status/1415437751646818304/photo/1
+
+**Components:**
+
+* Section 106 (Tribal & Historical Land) - Extended, due to end March 16th
+* Fish & Wildlife Service Endangered Species Act - Extended, due to end March 14th
+
+More info:
+
+* Fish & Wildlife Service FAQ on ESA consultations: https://www.fws.gov/endangered/what-we-do/faq.html
+
+> (t)he Service is allowed 90 days to consult with the agency and applicant (if any) and 45 days to prepare and submit a biological opinion; thus, a biological opinion is submitted to the action agency within 135 days of initiating formal consultation. The 90-day consultation period can be extended by mutual agreement of the action agency and the Service; however, if an applicant is involved the consultation period cannot be extended more than 60 days without the consent of the applicant. The extension should specify a schedule for completion.
 
 ### 	Obstruction Evaluation / Airport Airspace Analysis (OE/AAA) - Notices for Proposed Construction / Alteration (Form 7460-1)
 
