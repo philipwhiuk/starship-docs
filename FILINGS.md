@@ -178,12 +178,26 @@ that increases the likelihood of unsuccessful contract performance
 
 https://www.nasa.gov/nextstep/humanlander2
 
+* CLIN 1 (Base): Contract award through 12 months (October 2020)
+* CLIN 2 (Option A): October 2020 through 2024 flight demonstration
+* CLIN 3 (Option B): Approximately 2024 mission CDR through 2026 flight demonstration
+* CLIN 4 (IDIQ): Contract award through all awarded Options (special studies, support tasks)
+
+#### Option A - October 2020 through 2024 flight demonstration
+
 SpaceX Starship selected as Option A:
 
 * Press Release: https://www.nasa.gov/press-release/as-artemis-moves-forward-nasa-picks-spacex-to-land-next-americans-on-moon
 * Source Selection Statement: https://www.nasa.gov/sites/default/files/atoms/files/option-a-source-selection-statement-final.pdf
 
 > NASA implemented a no-cost extension through Aug. 9, 2021 to each of the base period HLS contracts with Blue Origin Federation, Dynetics, and SpaceX. These extensions continue the contracts for administrative purposes ahead of GAO resolution of the current protests.
+
+NB: "That demonstration mission is targeted for no earlier than April 2025." per https://www.nasa.gov/press-release/nasa-provides-update-to-astronaut-moon-lander-plans-under-artemis
+
+#### Option B - Approximately 2024 mission CDR through 2026 flight demonstration
+
+SpaceX Starship selected as Option B:
+* Press Release: https://www.nasa.gov/press-release/nasa-provides-update-to-astronaut-moon-lander-plans-under-artemis
 
 ### NextSTEP N: Sustainable HLS
 
@@ -205,6 +219,12 @@ Timeline:
 Docs:
 
 * Solicitation: https://sam.gov/opp/a69b323be5494af2b04b85a1f5111076/view
+
+### NextSTEP Appendix P: Human Landing System Sustaining Lunar Development
+
+* Press Release: https://www.nasa.gov/press-release/nasa-provides-update-to-astronaut-moon-lander-plans-under-artemis
+
+To bring a second entrant to market for the development of a lunar lander in parallel with SpaceX, NASA will issue a draft solicitation in the coming weeks. This upcoming activity will lay out requirements for a future development and demonstration lunar landing capability to take astronauts between orbit and the surface of the Moon. This effort is meant to maximize NASA’s support for competition and provides redundancy in services to help ensure NASA’s ability to transport astronauts to the lunar surface. This upcoming second contract award, known as the Sustaining Lunar Development contract, combined with the second option under SpaceX’s original landing award, will pave the way to future recurring lunar transportation services for astronauts at the Moon.
 
 ### SpaceX Starship Super Heavy Project at KSC
 
