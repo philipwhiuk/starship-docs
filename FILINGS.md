@@ -35,6 +35,8 @@ Responsible for local administration for Boca Chica construction and launch site
 
 * Novus Prime vs SpaceX - https://trellis.law/case/48061/2021-dcl-03184/space-exploration-technologies-corp-vs-novus-prime-properties-llc-francisco-chavez
 
+  Current status - December 4th Trial
+
 ### Published Road Closures
 
 https://www.cameroncounty.us/spacex/
