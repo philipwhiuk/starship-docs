@@ -31,6 +31,10 @@ https://www.faa.gov/space/environmental/nepa_docs/spacex_texas_eis/media/SpaceX_
 
 Responsible for local administration for Boca Chica construction and launch sites.
 
+### Lawsuits
+
+* Novus Prime vs SpaceX - https://trellis.law/case/48061/2021-dcl-03184/space-exploration-technologies-corp-vs-novus-prime-properties-llc-francisco-chavez
+
 ### Published Road Closures
 
 https://www.cameroncounty.us/spacex/
