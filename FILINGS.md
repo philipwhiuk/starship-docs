@@ -353,6 +353,12 @@ https://oeaaa.faa.gov/oeaaa/external/searchAction.jsp?action=displayOECase&oeCas
 
 NB: Provided first hard evidence that the OLIT would actually be used to for "catching" via "arms"
 
+#### OLIT Modification (2022-ASW-15390-OE)
+
+https://oeaaa.faa.gov/oeaaa/external/searchAction.jsp?action=displayOECase&oeCaseID=543233586&row=0
+
+> SpaceX is proposing a height of 504' + 10' lightning rod for the launch tower under construction. The tower shall lift a rocket and booster on the launch mount and catch the booster for landing. The tower will be constructed of structural steel trusses to support mechanical vehicle lift arms.
+
 #### Crane (Boca)
 https://oeaaa.faa.gov/oeaaa/external/searchAction.jsp?action=displayOECase&oeCaseID=483483974&row=11 
 
